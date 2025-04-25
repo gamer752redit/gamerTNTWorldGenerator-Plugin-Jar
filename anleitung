@@ -1,0 +1,97 @@
+✅ Installation
+
+Lade das Plugin hier auf GitHub herunter (JAR-Datei)
+
+Lege die JAR-Datei in deinen plugins-Ordner
+
+Starte deinen Server neu
+
+🛠️ Features
+Das GamerTNTWorldGenerator Plugin erweitert deinen Server mit explosiven Welten:
+
+💥 TNT-Welt Generierung
+
+Erstelle eine komplette TNT-Welt mit Bergen und normaler Terrain-Form
+
+Alle Blöcke werden durch TNT ersetzt
+
+Natürlich generierte Landschaften
+
+🌍 Welt-Teleportation
+
+Wechsle einfach zwischen normaler und TNT-Welt
+
+Nutze diese Befehle:
+
+plaintext
+/generate-tnt - Generiert eine neue TNT-Welt
+/world tnt - Teleportiert dich zur TNT-Welt
+/world normal - Bringt dich zurück zur normalen Welt
+⚠️ WICHTIGE SICHERHEITSHINWEISE ⚠️
+
+Die TNT-Welt ist extrem gefährlich!
+
+Deaktiviere Feuerausbreitung in deiner server.properties
+
+Nutze WorldGuard zum Schutz anderer Welten
+
+OP Spieler können die Welt zerstören - sei vorsichtig!
+
+✅ Empfohlene Begleit-Plugins
+
+WorldGuard (zum Schutz der Welten)
+
+EssentialsX (für zusätzliche Teleport-Befehle)
+
+CoreProtect (zum Rückgängigmachen von Explosionen)
+
+⚠️ BITTE GIB DAS PLUGIN NICHT ALS DEINS AUS ⚠️
+Wenn du Bugs findest oder Ideen hast, freue ich mich über dein Feedback!
+
+Viel Spaß mit deiner explosiven Welt! 💥
+
+🇬🇧 GamerTNTWorldGenerator - Minecraft TNT World Plugin
+
+🛠️ Features
+The GamerTNTWorldGenerator plugin adds explosive worlds to your server:
+
+💥 TNT World Generation
+
+Create complete TNT worlds with mountains and natural terrain
+
+Every block is replaced with TNT
+
+Naturally generated landscapes
+
+🌍 World Teleportation
+
+Easily switch between normal and TNT worlds
+
+Use these commands:
+
+plaintext
+/generate-tnt - Generates a new TNT world
+/world tnt - Teleports you to the TNT world
+/world normal - Returns you to the normal world
+⚠️ IMPORTANT SAFETY NOTES ⚠️
+
+The TNT world is extremely dangerous!
+
+Disable fire spread in your server.properties
+
+Use WorldGuard to protect other worlds
+
+OP players can destroy the world - be careful!
+
+✅ Recommended Companion Plugins
+
+WorldGuard (for world protection)
+
+EssentialsX (for additional teleport commands)
+
+CoreProtect (to undo explosions)
+
+⚠️ PLEASE DO NOT CLAIM THIS PLUGIN AS YOUR OWN ⚠️
+If you find bugs or have suggestions, feel free to share!
+
+Enjoy your explosive world! 💥
